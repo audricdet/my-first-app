@@ -1,0 +1,23 @@
+{
+  "name": "my-first-app",
+  "version": "1.0.0",
+  "description": "my-first-app",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audricdet/my-first-app.git"
+  },
+  "author": "audric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/audricdet/my-first-app/issues"
+  },
+  "homepage": "https://github.com/audricdet/my-first-app#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "pg": "^8.8.0"
+  }
+}
