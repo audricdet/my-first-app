@@ -1,3 +1,5 @@
+import * as dotenv from 'dotenv'
+
 import pkg from 'pg';
 
 const {
